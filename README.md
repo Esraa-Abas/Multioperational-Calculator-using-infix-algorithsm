@@ -1,6 +1,6 @@
-# Calculator_V2 Multi_operation Using Prefix Project – ATmega32 Simulation
+# Calculator_V2 Multi_operation Using infix Project – ATmega32 Simulation
 
-A calculator simulation developed using **ATmega32**, **keypad**, and **LCD** in **Proteus**. This project performs a single mathematical operation based on prefix notation, providing an intuitive interface for calculations.
+A calculator simulation developed using **ATmega32**, **keypad**, and **LCD** in **Proteus**. This project performs a single mathematical operation based on infix notation, providing an intuitive interface for calculations.
 
 ## 🚀 Features
 
@@ -34,7 +34,7 @@ A calculator simulation developed using **ATmega32**, **keypad**, and **LCD** in
   Accepts input in prefix notation from the keypad, processing the operators and operands as entered.
 
 - **🔄 Calculation Logic**:  
-  Evaluates the expression based on the prefix format, performing the appropriate arithmetic operation.
+  Evaluates the expression based on the infix, performing the appropriate arithmetic operation.
 
 - **📤 Output Display**:  
   Shows the result of the calculation on the LCD after the operation is performed.
